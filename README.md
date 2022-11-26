@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with Data Scientist Documentation.
 - 💬 Ask me about any tech related stuff.
 - 👀 I’m interested in Data Science, Data Engineering, Data Analytics
-- 📫 How to reach me: therealbabuji@gmail.com
+- 📫 How to reach me: Chhotuchiitodiya@gmail.com
 - 😄 Pronouns: He/His
 
