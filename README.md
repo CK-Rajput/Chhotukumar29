@@ -6,17 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhotukumar29&label=Profile%20views&color=0e75b6&style=flat" alt="chhotukumar29" /> </p>
 
-- 🔭 I’m currently working on **Water Quality Prediction, Omdena**
+- 🔭 I’m currently working on **Water Quality Prediction, Omdena.**
 
 - 🌱 I’m currently learning **Data Sciecne and Data Analytics.**
 
-- 🤝 I’m looking for help with **Data Science Documention**
+- 🤝 I’m looking for help with **Data Science Documention.**
 
-- 💬 Ask me about **anything.**
+- 💬 Ask me about **also R Programming.**
 
 - 📫 How to reach me **chhotuchiitodiya@gmail.com**
 
-- ⚡ Fun fact **I'm jolly person😁**
+- ⚡ Fun fact **I'm jolly person😁.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
