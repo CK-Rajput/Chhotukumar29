@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/Chhotukumar29/Chhotukumar29/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Chhotu Kumar</h1>
 <h3 align="center">A passionate full stack data science from Rajasthan, India</h3>
 
