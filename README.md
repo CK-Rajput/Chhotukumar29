@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Chhotukumar29/Chhotukumar29/blob/main/Chhotu%20Kumar.png)
 <h1 align="center">Hi 👋, I'm Chhotu Kumar</h1>
-<h3 align="center">A passionate full stack data science from Rajasthan, India</h3>
+<h3 align="center">A passionate full stack data science from Bharatpur, Rajasthan, India</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
