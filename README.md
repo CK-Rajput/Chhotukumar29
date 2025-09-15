@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/Chhotukumar29/Chhotukumar29/blob/main/Chhotu%20Kumar.png)
-<h1 align="center">Hi 👋, I'm Chhotu Kumar</h1>
+<h1 align="center">Hi 👋, I'm CK Rajput</h1>
 <h3 align="center">A passionate full stack data science from Bharatpur, Rajasthan, India</h3>
 
 
